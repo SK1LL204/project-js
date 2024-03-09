@@ -1,0 +1,36 @@
+.wrapper {
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    margin: 0;
+    padding: 0;
+}
+.button-wrapper{
+    z-index: 100;
+    width: 200px;
+    height: 200px;
+    
+}
+.h1-X-tittle{
+    font-size: 152px;
+    color: #0025f8;
+    margin: 0;
+    padding: 0;
+}
+.h1-O-tittle{
+    font-size: 152px;
+    color: #f80000;
+    margin: 0;
+    padding: 0;
+}
+.hr-tittle{
+    display: none;
+    width: 200px;
+    height: 10px;
+    background: #000;
+}
+.display-none{
+    display: none;
+}
+/*.congratulation{
+    background: #000;
+}*/
